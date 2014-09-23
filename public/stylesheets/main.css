@@ -1,0 +1,35 @@
+html {
+  min-height: 100%;
+}
+.container {
+  padding: 35px;
+}
+h1 {
+  font-family: 'Maven Pro';
+}
+h2 {
+  color: #777;
+  font-family: 'Maven Pro';
+  padding-top: 35px;
+}
+#content {
+  padding-top: 10px;
+}
+p, .ideas {
+  font: 16px 'Helvetica Neue';
+  list-style: none;
+  margin-left: 0;
+}
+footer ul {
+  font: 14px 'Helvetica Neue';
+  list-style: none;
+  display: inline;
+  margin-left: 0;
+}
+footer ul li {
+  display: inline;
+}
+footer a:link, 
+footer a:visited {
+  color: #999;
+}
